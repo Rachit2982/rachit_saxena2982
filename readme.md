@@ -1,9 +1,13 @@
+
+
 <h1 align="center">Hi 👋, I'm Rachit Saxena</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachit2982" alt="rachit2982" /></a> </p>
+<img src="https://github.com/Rachit2982/rachit_saxena2982/blob/main/img%20logo.gif" alt="coding" width="300px" align="right" style="margin:10px;">
 
-- 🔭 I’m currently working on **an Agentic AI project and exploring the architecture of real-time chat systems (like WhatsApp) to understand messaging, scaling, and backend design.**
+
+- 🔭 I’m currently working on an Agentic AI project and exploring the architecture of real-time chat systems (like WhatsApp) to understand messaging, scaling, and backend design.
 
 - 🌱 I’m currently learning **advanced Java with DSA, Computer Networks, and exploring 3rd-series Agentic AI.**
 

@@ -1,9 +1,9 @@
-
+![logo](https://github.com/Rachit2982/rachit_saxena2982/blob/main/Black%20Gradient%20Minimalist%20Corporate%20Business%20Personal%20Profile%20New%20LinkedIn%20Banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Rachit Saxena</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachit2982" alt="rachit2982" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachit2982" alt="rachit2982" /></a> </p>
 <img src="https://github.com/Rachit2982/rachit_saxena2982/blob/main/img%20logo.gif" alt="coding" width="300px" align="right" style="margin:10px;">
 
 
